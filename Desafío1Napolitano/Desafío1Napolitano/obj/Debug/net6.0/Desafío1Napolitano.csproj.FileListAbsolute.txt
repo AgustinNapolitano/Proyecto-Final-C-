@@ -1,0 +1,5 @@
+D:\CODERHOUSE\C#\Desafío1Napolitano\Desafío1Napolitano\obj\Debug\net6.0\Desafío1Napolitano.csproj.AssemblyReference.cache
+D:\CODERHOUSE\C#\Desafío1Napolitano\Desafío1Napolitano\obj\Debug\net6.0\Desafío1Napolitano.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODERHOUSE\C#\Desafío1Napolitano\Desafío1Napolitano\obj\Debug\net6.0\Desafío1Napolitano.AssemblyInfoInputs.cache
+D:\CODERHOUSE\C#\Desafío1Napolitano\Desafío1Napolitano\obj\Debug\net6.0\Desafío1Napolitano.AssemblyInfo.cs
+D:\CODERHOUSE\C#\Desafío1Napolitano\Desafío1Napolitano\obj\Debug\net6.0\Desafío1Napolitano.csproj.CoreCompileInputs.cache
